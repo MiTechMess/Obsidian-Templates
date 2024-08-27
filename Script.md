@@ -1,20 +1,20 @@
 ---
-created:
+Added:
   - "{{date}} {{time}}"
 tags:
   - Script
+  - Scripts
 GitHub: 
 Website:
 ---
 ## Description
-Related to : 
-Tags :
 
 ## 💻 Script
 
 ## 🧾 Code
 
 ```
+Place your script or code here. 
 
 ```
 
